@@ -20,7 +20,7 @@ def pytest_addoption(parser):
 def load_env():
     load_dotenv()
 
-@pytest.fixture(scope='function', autouse=True)
+@pytest.fixture(scope='function')
 def setting_browser():
     chrome_options = Options()
     browser.config.base_url = 'https://saucedemo.com'
@@ -39,7 +39,7 @@ def setting_browser():
 
     browser.quit()
 
-@pytest.fixture(scope='function')
+@pytest.fixture(scope='function', autouse=True)
 def setup_browser(request):
     browser.config.window_width = 1920
     browser.config.window_height = 1080
