@@ -8,7 +8,7 @@ from helpers import auth_helper
 
 @allure.title('Добавление товара в корзину через карточку товара')
 @allure.tag('web', 'smoke')
-@allure.story('Добавление товара в корзину')
+@allure.story('Корзина')
 @allure.severity(Severity.BLOCKER)
 @allure.label('owner', 'Shkuratov Artem')
 def test_add_item_to_cart_from_product_page():
@@ -20,7 +20,7 @@ def test_add_item_to_cart_from_product_page():
 
 @allure.title('Добавление товара в корзину через каталог')
 @allure.tag('web', 'smoke')
-@allure.story('Добавление товара в корзину')
+@allure.story('Корзина')
 @allure.severity(Severity.BLOCKER)
 @allure.label('owner', 'Shkuratov Artem')
 def test_add_items_to_cart_from_product_catalog():
@@ -34,7 +34,7 @@ def test_add_items_to_cart_from_product_catalog():
 
 @allure.title('Удаление товара из корзины через каталог')
 @allure.tag('web', 'smoke')
-@allure.story('Удаление товара из корзины')
+@allure.story('Корзина')
 @allure.severity(Severity.BLOCKER)
 @allure.label('owner', 'Shkuratov Artem')
 def test_remove_item_from_cart():

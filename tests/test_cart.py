@@ -31,7 +31,7 @@ def test_return_to_catalog_from_cart():
 
 @allure.title('Удаление товара из корзины')
 @allure.tag('web', 'smoke')
-@allure.story('Удаление товара из корзины')
+@allure.story('Корзина')
 @allure.severity(Severity.BLOCKER)
 @allure.label('owner', 'Shkuratov Artem')
 def test_remove_item_from_cart():
