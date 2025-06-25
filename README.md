@@ -60,10 +60,10 @@
 
 ### <img width="3%" title="Allure Report" src="images/logos/allure_report.png"> Allure report
 
->##### Результаты выполнения тестова можно посмотреть в Allure-отчете.
+>#### Результаты выполнения тестова можно посмотреть в Allure-отчете.
 ![This is an image](images/screenshots/allure_report_screenshot.png)
 
->##### Сформированный сьют с тест-кейсами из тестового прогона отображается в вкладке "Suites".
+>#### Сформированный сьют с тест-кейсами из тестового прогона отображается в вкладке "Suites".
 ![This is an image](images/screenshots/allure_report_testcases.png)
 
 
@@ -71,11 +71,11 @@
 
 ### <img width="3%" title="Allure TestOps" src="images/logos/allure_testops.png"> Интеграция с Allure TestOps
 
->##### Ссылка на <a target="_blank" href="https://allure.autotests.cloud/project/4810/dashboards">Dashboard</a>
+>#### Ссылка на <a target="_blank" href="https://allure.autotests.cloud/project/4810/dashboards">Dashboard</a>
 
 ![This is an image](images/screenshots/allure_testops_dashboard.png)
 
->##### Тест-кейсы сформированные в рамках прохождения тестового прогона
+>#### Тест-кейсы сформированные в рамках прохождения тестового прогона
 
 ![This is an image](images/screenshots/allure_testops_test_cases.png)
 
@@ -84,7 +84,7 @@
 
 ### <img width="3%" title="Jira" src="images/logos/jira.png"> Интеграция с Jira
 
->##### Реализована интеграция Allure TestOps с Jira, в задачу из Jira можно добавить список тест-кейсов и результат тестового прогона по ним.
+>#### Реализована интеграция Allure TestOps с Jira, в задачу из Jira можно добавить список тест-кейсов и результат тестового прогона по ним.
 
 ![This is an image](images/screenshots/jira_screenshot.png)
 
@@ -92,6 +92,6 @@
 <!-- Telegram -->
 
 ### <img width="3%" title="Telegram" src="images/logos/tg.png"> Оповещения в Telegram
->##### После завершения джобы, в Telegram bot приходит уведомление с графиком и информацией о тестовом прогоне.
+>#### После завершения джобы, в Telegram bot приходит уведомление с графиком и информацией о тестовом прогоне.
 
 <img alt="This is an image" src="images/screenshots/telegram_bot_screenshot.png" width="900"/>
