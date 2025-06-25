@@ -1,4 +1,4 @@
-# <p align="center"> Проект по автоматизированному тестированию проекта Swag Labs </p>
+# <p align="center"> Проект по автоматизированному тестированию ресурса Swag Labs </p>
 > <a target="_blank" href="https://www.saucedemo.com/">Swag Labs</a>
 <p align="center">
 <img title="Swag Labs Main Page" src="images/screenshots/swaglabs_screenshot.png">
