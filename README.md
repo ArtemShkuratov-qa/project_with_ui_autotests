@@ -6,7 +6,8 @@
 
 <!-- Технологии -->
 
-### Используемые технологии
+## Используемые технологии
+
 <p  align="center">
 <a href="https://www.python.com/"><img src="images/logos/python.png" width="50" height="50"  alt="Python"/></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="images/logos/pycharm.png" width="50" height="50"  alt="PyCharm"/></a>
@@ -20,22 +21,23 @@
 <a href="https://www.jenkins.io/"><img src="images/logos/jenkins.png" width="50" height="50"  alt="Jenkins"/></a>
 <a href="https://www.atlassian.com/ru/software/jira/"><img src="images/logos/jira.png" width="50" height="50"  alt="Jira"/></a> 
 <a href="https://web.telegram.org/k/"><img src="images/logos/tg.png" width="50" height="50"  alt="Jira"/></a>  
+</p>
 
 
 
 <!-- Тестовые сценарии -->
-Реализованные тестовые сценарии:
+## Реализованные тестовые сценарии:
 
- Авторизация  
+ #### Авторизация  
  >* ✅ Успешная авторизация
  >* ✅ Авторизация под заблокированным пользователем
  >* ✅ Авторизация без ввода пароля  
  
- Оформление заказа  
+ #### Оформление заказа  
 >* ✅ Оформление заказа
 >* ✅ Возврат к каталогу с товарами после успешного оформления заказа
  
- Корзина  
+ #### Корзина  
 >* ✅ Добавление товара в корзину через каталог
 >* ✅ Добавление товара в корзину через карточку товара
 >* ✅ Удаление товара из корзины
@@ -45,7 +47,7 @@
 
 <!-- Jenkins -->
 
-### <img width="3%" title="Jenkins" src="images/logos/jenkins.png"> Запуск проекта в Jenkins
+## <img width="3%" title="Jenkins" src="images/logos/jenkins.png"> Запуск проекта в Jenkins
 
 ##### Для запуска автотестов в Jenkins
 
@@ -60,7 +62,7 @@
 
 <!-- Allure report -->
 
-### <img width="3%" title="Allure Report" src="images/logos/allure_report.png"> Allure report
+## <img width="3%" title="Allure Report" src="images/logos/allure_report.png"> Allure report
 
 >#### Результаты выполнения тестов можно посмотреть в Allure-отчете.
 ![This is an image](images/screenshots/allure_report_screenshot.png)
@@ -71,7 +73,7 @@
 
 <!-- Allure TestOps -->
 
-### <img width="3%" title="Allure TestOps" src="images/logos/allure_testops.png"> Интеграция с Allure TestOps
+## <img width="3%" title="Allure TestOps" src="images/logos/allure_testops.png"> Интеграция с Allure TestOps
 
 >#### Ссылка на <a target="_blank" href="https://allure.autotests.cloud/project/4810/dashboards">Dashboard</a>
 
@@ -84,7 +86,7 @@
 
 <!-- Jira -->
 
-### <img width="3%" title="Jira" src="images/logos/jira.png"> Интеграция с Jira
+## <img width="3%" title="Jira" src="images/logos/jira.png"> Интеграция с Jira
 
 >#### Реализована интеграция Allure TestOps с Jira. В задачу из Jira можно добавить список тест-кейсов и результат тестового прогона по ним.
 
@@ -93,7 +95,7 @@
 
 <!-- Telegram -->
 
-### <img width="3%" title="Telegram" src="images/logos/tg.png"> Оповещения в Telegram
+## <img width="3%" title="Telegram" src="images/logos/tg.png"> Оповещения в Telegram
 >#### После завершения джобы в Telegram bot приходит уведомление с графиком и информацией о тестовом прогоне.
 
 <img alt="This is an image" src="images/screenshots/telegram_bot_screenshot.png" width="900"/>
