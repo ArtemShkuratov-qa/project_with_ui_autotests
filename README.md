@@ -60,7 +60,7 @@
 
 ### <img width="3%" title="Allure Report" src="images/logos/allure_report.png"> Allure report
 
->#### Результаты выполнения тестова можно посмотреть в Allure-отчете.
+>#### Результаты выполнения тестов можно посмотреть в Allure-отчете.
 ![This is an image](images/screenshots/allure_report_screenshot.png)
 
 >#### Сформированный сьют с тест-кейсами из тестового прогона отображается в вкладке "Suites".
