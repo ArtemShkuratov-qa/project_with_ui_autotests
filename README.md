@@ -58,7 +58,7 @@
 5. Нажать кнопку `Build`
 6. Результат прохождения тестов можно увидеть в Allure отчете или в Allure Testops
 
-<img alt="This is an image" src="images/screenshots/jenkins_screenshot.png" width="900"/>
+<img alt="This is an image" src="images/screenshots/jenkins_screenshot.png"/>
 
 <!-- Allure report -->
 
@@ -67,7 +67,7 @@
 >#### Результаты выполнения тестов можно посмотреть в Allure-отчете.
 ![This is an image](images/screenshots/allure_report_screenshot.png)
 
->#### Сформированный сьют с тест-кейсами из тестового прогона отображается в вкладке "Suites".
+>#### Сформированный сьют с тест-кейсами из тестового прогона отображается во вкладке "Suites".
 ![This is an image](images/screenshots/allure_report_testcases.png)
 
 
